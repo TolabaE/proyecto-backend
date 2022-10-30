@@ -1,0 +1,26 @@
+[
+  {
+    "name": "pc gamer",
+    "price": 105000,
+    "image": "ruta/imagen/pcgamer/tiendagamer.pnj",
+    "id": 1
+  },
+  {
+    "name": "teclado NOGA 2.0",
+    "price": 5200,
+    "image": "ruta/imagen/tecladogamernoga/tiendagamer.pnj",
+    "id": 2
+  },
+  {
+    "name": "auriculares sony 2800 hzd",
+    "price": 23000,
+    "image": "ruta/imagen/auricularesgamer/tiendagamer.pnj",
+    "id": 3
+  },
+  {
+    "name": "monitor samsung 32 pulgadas,",
+    "price": 65999,
+    "image": "ruta/imagen/monitorsamsung/tiendagamer.pnj",
+    "id": 4
+  } 
+]
